@@ -36,4 +36,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihavelapki)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Pereyro)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Pereyro&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
