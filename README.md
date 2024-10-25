@@ -1,4 +1,9 @@
-# 👋 Hi, I’m @ihavelapki
+# 👋 Hi there, I'm Petr Gubko
+
+### :man_technologist: About Me:
+- 🔭 I’m currently working as a DevOps engineer at [RTL-consulting](https://rtl-consulting.ru/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petr-gubko-2284a821a/)
+
 
 
 ## :hammer_and_wrench: Languages and Tools :
